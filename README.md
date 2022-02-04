@@ -13,3 +13,4 @@ Template para portfólio de Data Science
  Ifood é considerado uma empresa bem estabelecida operando no setor de varejo de alimentos. Atualmente, há uma estimativa de 1.000.000(um milhão) de consumidores atendidos por ano. Os adquirentes usufruem das 5 grandes categorias de produtos que são: vinhos, carnes raras, frutas exóticas, peixe preparado e doces. Tais produtos se subdividem em ouro e regular.
 
 Apesar da linha de fluxo saudável no passado, juntamente com a obtenção de receitas sólidas, a perspectiva projetada para os próximos 3 anos não são vingadoras. Desta forma, tem-se difundido as várias iniciativas estratégicas pela organização. Nesta análise, visando dar novos insights e economicidade para que haja à continuidade embasada das atividades iniciadas pelo setor de Marketing, vamos trazer o brilho quantitativo retornado pelos dados.
+*  **Clique aqui para acessar o google colab:** https://abre.ai/mkt-sac
