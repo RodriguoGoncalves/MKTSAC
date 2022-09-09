@@ -4,7 +4,7 @@ Template para portfólio de Data Science
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RodriguoGoncalves/Sigmoidal_data_science/main/banner2.png" >
+  <img src="https://raw.githubusercontent.com/RodriguoGoncalves/Sigmoidal_data_science/main/banner4.png" >
 </p>
 
 <sub>Observação 1: sabendo que o case de resolução trata de uma empresa fictícia, tomamos a liberdade de nomear esta empresa como Ifood mas já sabendo que toda a ánalise não se resume à realidade da empresa</sub><P>
